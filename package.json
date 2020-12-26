@@ -1,0 +1,14 @@
+{
+  "name": "xmrig-rp",
+  "version": "1.0.0",
+  "description": "Discord Rich Presence for xmrig",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "MasterIO",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8"
+  }
+}
