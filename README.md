@@ -15,6 +15,6 @@ Download the repository, install the dependency discord-rich-presence with `npm 
 
 Modify the config.js with the xmrig executable path and the xmrig config path.
 
-Note that on Windows you need to replace backwards slash (\) by double backwards slash (\\) or simple slashs (/).
+Note that on Windows you need to replace backwards slash (\\) by double backwards slash (\\\\) or simple slashs (/).
 
 Then run xmrig-rp with npm start OR node main.js.
